@@ -1,5 +1,9 @@
 # LabControl - Registro de Devoluções (Front-End)
 
+---
+🔗 **Repositório do Back-End (API):** [Acesse aqui](https://github.com/nicolashenrique921/LabControl-RegistroDeDevolucoes)
+---
+
 Interface moderna e intuitiva para o sistema de controle de laboratório. Desenvolvida em **React**, a aplicação oferece uma experiência fluida para o registro e consulta de equipamentos devolvidos.
 
 ### 🛠 Tecnologias Utilizadas
